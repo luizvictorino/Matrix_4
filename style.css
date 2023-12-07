@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+div{
+    color: white;
+    font-family: verdana;
+    width: 500px;
+    margin:50px auto;
+}
+
+img{
+    width: 500px;
+    border: 3px solid green;
+
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 18px;
+}
+
+span{
+    color: white;
+    text-decoration: none;
+    border-bottom: 2px solid green;
+    border-left: 2px solid green;
+}
